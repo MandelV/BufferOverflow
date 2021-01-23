@@ -3,8 +3,8 @@ Buffer Overflow learning
 
 ## Summary
 
-* [NoCanary - 32bit](##-NoCanary---32bit)
-* [Ret2libc - 32bit](##-ret2libc---32bit)
+* [NoCanary - 32bit](#nocanary---32bit)
+* [Ret2libc - 32bit](#ret2libc---32bit)
 
 ## NoCanary - 32bit
 
