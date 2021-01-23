@@ -3,9 +3,13 @@
 #include <string.h>
 
 void dangerZONE(){
-
+    
     printf("sucess\n");
-    system("sudo sh");  
+
+    char *name[] = {"/bin/bash", NULL};
+    setuid(0);
+    execvp(name[0], name);
+
 }
 
 void vuln(char* string){
