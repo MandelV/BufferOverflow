@@ -3,10 +3,10 @@ Buffer Overflow learning
 
 ## Summary
 
-* [NoCanary - 32bit](#nocanary---32bit)
+* [basic - 32bit](#basic---32bit)
 * [Ret2libc - 32bit](#ret2libc---32bit)
 
-## NoCanary - 32bit
+## basic - 32bit
 
 Lien : [NoCanary](https://github.com/MandelV/BufferOverflow/tree/main/32bit/nocanary)
 
